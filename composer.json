@@ -1,0 +1,17 @@
+{
+    "name": "enzoseehagen/buscador",
+    "description": "Projeto que busca equipamentos no site kabum",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Enzoseehagen\\Buscador\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EnzoSeehagen",
+            "email": "enzovonseehagen@gmail.com"
+        }
+    ],
+    "require": {}
+}
